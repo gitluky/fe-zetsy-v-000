@@ -56,6 +56,10 @@ nav img {
   border: 5px #ccc solid;
 }
 
+section {
+  margin-bottom: 20px;
+}
+
 footer p{
   font-size: 0.8em;
   text-align: right;
