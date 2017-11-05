@@ -56,8 +56,8 @@ nav img {
   border: 5px #ccc solid;
 }
 
-footer p {
+footer{
   font-size: 0.8em;
   position: relative;
-  right: 0;
+  bottom: : 0;
 }
