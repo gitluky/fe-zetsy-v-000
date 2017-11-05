@@ -20,6 +20,10 @@ body {
 
 /* Write all remaining styles here */
 
+header{
+  color: rgb(152,173,166);
+  text-decoration: none;
+}
 h1 {
   font-size: 2em;
   color: rgb(152,173,166);
