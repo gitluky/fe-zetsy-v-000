@@ -45,9 +45,9 @@ h2 p{
 }
 
 .press {
-  border: 1px
-  border-color: white;
-  margin: 5px
-  margin-color: grey;
+  padding: 1px;
+  border: 5px;
+  border-color: #ccc;
+  border-style: solid;
 }
 
