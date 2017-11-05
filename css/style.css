@@ -58,4 +58,6 @@ nav img {
 
 footer {
   font-size: .75em
+  position: relative;
+  right: 0;
 }
