@@ -58,7 +58,7 @@ nav img {
 
 footer{
   font-size: 0.8em;
-  position: relative;
+  position: absolute;
   bottom: 0;
   right: 0;
 }
