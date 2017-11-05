@@ -20,8 +20,8 @@ body {
 
 /* Write all remaining styles here */
 
-h1 a{
-  font-size: 5em;
+h1 {
+  font-size: 2em;
   color: rgb(152,173,166);
   text-decoration: none;
   font-family: Baskerville, serif;
