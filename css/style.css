@@ -23,6 +23,7 @@ body {
 header a{
   color: rgb(152,173,166);
   text-decoration: none;
+  height: 100%;
 }
 h1 {
   font: 0 5em/0em Baskerville, serif;
