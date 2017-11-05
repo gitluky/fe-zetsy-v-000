@@ -25,7 +25,9 @@ header a{
   text-decoration: none;
 }
 h1 {
-  font: 0 5em/0em Baskerville, serif;
+  font-weight: normal;
+  font-size: 5em;
+  font-family: Baskerville;
   color: rgb(152,173,166);
   text-decoration: none;
   border-bottom: 1px solid #ccc;
